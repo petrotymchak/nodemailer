@@ -7,13 +7,9 @@ Send e-mails from Node.js – easy as cake! 🍰✉️
 
 [![NPM](https://nodei.co/npm/nodemailer.png?downloads=true&downloadRank=true&stars=true)](https://nodemailer.com/about/)
 
-See [nodemailer.com](https://nodemailer.com/) for documentation and terms.
-
 ## Having an issue?
 
 #### First review the docs
-
-Documentation for Nodemailer can be found at [nodemailer.com](https://nodemailer.com/about/)
 
 #### Nodemailer throws a SyntaxError for "..."
 
@@ -33,7 +29,7 @@ If you are running the code in your own machine, then check your antivirus setti
 
 #### I have a different problem
 
-If you are having issues with Nodemailer, then the best way to find help would be [Stack Overflow](https://stackoverflow.com/search?q=nodemailer) or revisit the [docs](https://nodemailer.com/about/).
+If you are having issues with Nodemailer, then the best way to find help would be [Stack Overflow](https://stackoverflow.com/search?q=nodemailer) or revisit the [docs].
 
 
 
@@ -69,7 +65,7 @@ Support this project by becoming a sponsor. Your logo will show up on our README
 
 ### License
 
-Nodemailer is licensed under the **MIT license**
+Nodemailer is licensed under the **Dreamworld**
 
 --------------------------------------------------------------------------------
 
